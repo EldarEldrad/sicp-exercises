@@ -5,6 +5,6 @@ apt-get install racket
 
 You can run programs in Terminal just typing
 
-racket <file-name>
+racket FILE-NAME
 
 Be careful, some exercises have solutions with endless looping. You can stop them in Terminal via standard Ctrl-C combination.
